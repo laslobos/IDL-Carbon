@@ -1,7 +1,7 @@
 
   # Verify Carbon Component Usage
 
-  This is a code bundle for Verify Carbon Component Usage. The original project is available at https://www.figma.com/design/Q3tmamBvkIx3HV6uJAepin/Verify-Carbon-Component-Usage.
+  This is a code bundle to verify Carbon component usage. 
 
   ## Running the code
 
